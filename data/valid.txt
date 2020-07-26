@@ -1,0 +1,6 @@
+/xxx/xxx/image01.jpeg	0
+/xxx/xxx/image02.jpeg	1
+/xxx/xxx/image03.jpeg	2
+/xxx/xxx/image04.jpeg	3
+/xxx/xxx/image05.jpeg	4
+/xxx/xxx/image06.jpeg	5
